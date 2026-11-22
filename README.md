@@ -1,1 +1,1 @@
-# whether-quiz
+# weather-quiz
